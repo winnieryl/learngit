@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git remote test
 Creatubg a bew branch is quick and simple.
+Add merge
